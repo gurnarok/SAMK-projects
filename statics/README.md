@@ -10,3 +10,5 @@ The beam implies a force of 6kN downwards in -Y direction.
 Simplified and doing all the required magic vector calculations, we get a formula of
 
 ![Force equation](force_equation.svg)
+
+Using this formula and Numpy, we can solve the angle and force of F<sub>2</sub>, to any degree of percision that we set.
