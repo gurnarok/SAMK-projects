@@ -47,12 +47,12 @@
      fit-margin-right="1"
      fit-margin-left="1"
      inkscape:zoom="2.5148252"
-     inkscape:cx="119.77508"
-     inkscape:cy="24.754263"
+     inkscape:cx="135.89742"
+     inkscape:cy="19.007227"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg955" />
+     inkscape:current-layer="page1" />
   <defs
      id="defs906">
     <path
@@ -130,7 +130,15 @@
   </defs>
   <g
      id="page1"
-     transform="matrix(1.13,0,0,1.13,-63.731795,-59.686933)">
+     transform="matrix(1.13,0,0,1.13,-63.731795,-59.686933)"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#ffffea;fill-opacity:0;stroke:#ffffff;stroke-opacity:0;stroke-width:1.00090579;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4665"
+       width="163.60004"
+       height="30.446592"
+       x="57.054035"
+       y="54.549099" />
     <use
        x="56.4133"
        xlink:href="#g1-70"
